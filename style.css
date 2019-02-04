@@ -46,8 +46,8 @@ div {
     font-family: Helvetica, sans-serif;
     font-size: 22pt;
     line-height: 150px;
-    float: right;
-    margin-right: 70px
+    float: left;
+    margin-left: 50px
 }
 .menu li a{
     color: black;
