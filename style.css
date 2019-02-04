@@ -40,14 +40,14 @@ div {
     padding-left: 0px;
     margin-left: 200px;
     height: 150px;
-    display: flex;
-    justify-content: flex-end;
 }
 .menu li{
     list-style-type: none;
     font-family: Helvetica, sans-serif;
     font-size: 22pt;
-    margin: auto auto;
+    line-height: 150px;
+    float: right;
+    margin-right: 70px
 }
 .menu li a{
     color: black;
